@@ -1,8 +1,10 @@
 <?php
-$headerImage = 'images/pexels-fwstudio-172289.jpg';
-$pageTitle = 'Menu';
-include 'include/header.include.php';
+$headerImage = "images/pexels-fwstudio-172289.jpg";
+$pageKey = "menu";
+$pageTitle = "Menu";
+include "include/header.include.php";
 ?>
+
 <h1>Our menu</h1>
 <h2>Starters</h2>
 <ul>

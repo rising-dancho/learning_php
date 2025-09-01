@@ -1,8 +1,10 @@
 <?php
-$headerImage = 'images/pexels-engin-akyurt-1435904.jpg';
-$pageTitle = 'Our Mission';
-include 'include/header.include.php';
+$headerImage = "images/pexels-julia-volk-5273044.jpg";
+$pageKey = "mission";
+$pageTitle = "Our Mission";
+include "include/header.include.php";
 ?>
+
 <h1>Our mission</h1>
 <p>
   At Culinary Cove, our core mission is to offer a sanctuary for

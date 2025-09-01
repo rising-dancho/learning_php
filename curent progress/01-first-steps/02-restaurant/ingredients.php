@@ -1,7 +1,10 @@
 <?php
-$headerImage = 'images/pexels-julia-volk-5273044.jpg';
-$pageTitle = 'Ingredients';
-include 'include/header.include.php'; ?>
+$headerImage = "images/pexels-engin-akyurt-1435904.jpg";
+$pageKey = "ingredients";
+$pageTitle = "Ingredients";
+include "include/header.include.php"; 
+?>
+
 <h1>Our ingredients</h1>
 <p>
   At Culinary Cove, our ethos is deeply rooted in the belief that
